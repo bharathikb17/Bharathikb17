@@ -5,5 +5,5 @@
 - 🔭 I’m currently working as BA on Salesforce CPQ
 - 🌱 I’m currently learning Github Copilot
 - 👯 I’m looking to collaborate on Github Copilot
-- 📫 How to reach me: bharathi.kb@philips.com
+- 📫 How to reach me: bharathi.kb@philips.com 
 
